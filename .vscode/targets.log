@@ -1,0 +1,371 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# This is free software; see the source for copying conditions.
+# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.
+
+# This program built for i386-pc-mingw32
+ 
+
+# Make data base, printed on Mon Jul 04 20:07:37 2022
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+# makefile
+MAKEFLAGS = Rrqp
+# environment
+VSCODE_LOG_NATIVE = false
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+HOMEDRIVE = C:
+# automatic
+@F = $(notdir $@)
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# makefile
+CURDIR := c:/Users/duong/GolandProjects/simpleBank
+# default
+SHELL := sh.exe
+# environment
+WINDIR = 
+ C:\WINDOWS
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+ONEDRIVE = C:\Users\duong\OneDrive
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# makefile (from `makefile', line 1)
+MAKEFILE_LIST :=  makefile
+# environment
+TMP = C:\Users\duong\AppData\Local\Temp
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PROGRAMDATA = C:\ProgramData
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-85ddd2db-a140-488a-a8ea-8ec524f80379-sock
+# environment
+VSCODE_CWD = C:\Users\duong\AppData\Local\Programs\Microsoft VS Code
+# environment
+GOPROXY = https://proxy.golang.org,direct
+# environment
+PATH = C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Go\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\duong\scoop\shims;C:\Users\duong\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\GoLand 2022.1.3\bin;C:\Users\duong\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\DataGrip 2022.1.5\bin;C:\Users\duong\go\bin;C:\Users\duong\AppData\Roami 
+ng\npm;C:\MinGW\bin;C:\Program Files (x86)\GnuWin32\bin;
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# environment
+ZES_ENABLE_SYSMAN = 1
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+USERPROFILE = C:\Users\duong
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+GOPATH = C:\Users\duong\go
+# environment
+VSCODE_LOG_STACK = false
+# environment
+NUMBER_OF_PROCESSORS = 8
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if archives
+# automatic
+%F = $(notdir $%)
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_14968_QNEXITGLUMJZXGZQ
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+COMPUTERNAME = DUONG
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+GOLAND = C:\Program Files\JetBrains\GoLand 2022.1.3\bin;
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERNAME = duong
+# environment
+PUBLIC = C:\U 
+sers\Public
+# environment
+GOMODCACHE = C:\Users\duong\go\pkg\mod
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\duong\AppData\Roaming\Code\CachedData\30d9c6cd9483b2cc586687151bcbcd635f373630
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# environment
+LOGONSERVER = \\DUONG
+# environment
+ONEDRIVECONSUMER = C:\Users\duong\OneDrive
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+USERDOMAIN = DUONG
+# environment
+MAKE = C:\Program Files (x86)\GnuWin32\bin\make.exe
+# environment
+MINGW32-MAKE = C:\MinGW\bin
+# default
+MAKE_VERSION := 3.81
+# makefile
+.DEFAULT_GOAL := postgres
+# default
+MAKECMDGOALS := all
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+LOCALAPPDATA = C:\Users\duong\AppData\Local
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make.exe 
+
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+# environment
+OS = Windows_NT
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\e8f8d8fd3e185b94fd8caad25e2467ab-1.68.1-main-sock
+# environment
+HOMEPATH = \Users\duong
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+PROMPT = $P$G
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst % 
+/,%,$(dir $*))
+# environment
+SYSTEMROOT = C:\WINDOWS
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# automatic
++F = $(notdir $+)
+# environment
+APPDATA = C:\Users\duong\AppData\Roaming
+# environment
+TEMP = C:\Users\duong\AppData\Local\Temp
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# default
+MAKEFILES := 
+# automatic
+<F = $(notdir $<)
+# environment
+LC_ALL = C
+# environment
+DATAGRIP = C:\Program Files\JetBrains\DataGrip 2022.1.5\bin;
+# automatic
+^F = $(notdir $^)
+# default
+SUFFIXES := 
+# environment
+SYSTEMDRIVE = C:
+# environment
+SESSIONNAME = Console
+# environment
+PROCESSOR_REVISION = 9e0a
+# environment
+MAKELEVEL := 0
+# environment
+LANG = C
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+VSCODE_PID = 14968
+# environment
+USERDOMAIN_ROAMINGPROFILE = DUONG
+# variable set hash-table stats:
+# Load=94/1024=9%, Rehash=0, Collisions=12/115=10%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# C:\Program Files\Docker\Docker\resources\bin (key C:/Program Files/Docker/Docker/resources/bin, mtime 1656728236): 13 files, no impossibilities.
+# C:\Program Files\Go\bin (key C:/Program Files/Go/bin, mtime 1656470964): 4 files, no impossibilities.
+# C:\Program Files\JetBrains\DataGrip 2022.1.5\bin (key C:/Program Files/JetBrains/DataGrip 2022.1.5/bin, mtime 1656469770): 28 files, no impossibilities.
+# C:\WINDOWS\System32\WindowsPowerShell\v1.0\ (key C:/WINDOWS/System32/WindowsPowerShell/v1.0/, mtime 1622903042): 30 files, no impossibilities.
+# C:\WINDOWS\System32\Wbem (key C:/WIND 
+OWS/System32/Wbem, mtime 1656519656): 170 files, no impossibilities.
+# . (key c:/Users/duong/GolandProjects/simpleBank, mtime 1656770317): 10 files, no impossibilities.
+# C:\Users\duong\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/duong/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1656469396): 4 files, no impossibilities.
+# C:\Program Files\nodejs\ (key C:/Program Files/nodejs/, mtime 1656744832): 13 files, no impossibilities.
+# C:\Users\duong\AppData\Roaming\npm (key C:/Users/duong/App 
+Data/Roaming/npm, mtime 1656744829): 2 files, no impossibilities.
+# C:\Program Files\MySQL\MySQL Shell 8.0\bin\ (key C:/Program Files/MySQL/MySQL Shell 8.0/bin/, mtime 1656842733): 9 files, no impossibilities.
+# C:\Program Files\JetBrains\GoLand 2022.1.3\bin (key C:/Program Files/JetBrains/GoLand 2022.1.3/bin, mtime 1656472376): 28 files, no impossibilities.
+# C:\WINDOWS\System32\OpenSSH\: could not be stat'd.
+# C:\WINDOWS (key C:/WINDOWS, mtime 1656469818): 110 files, no impossibilities.
+# C:\Users\duong\scoop\shims (key C:/Users/duong/scoop/shims, mtime 1656744967): 7 files, no impossibilities.
+# C:\Users\duong\AppData\Local\Microsoft\WindowsApps (key C:/Users/duong/AppData/Local/Microsoft/WindowsApps, mtime 1656725555): 26 files, no impossibilities.
+# C:\Program Files\Cloudflare\Cloudflare WARP\ (key C:/Program Files/Cloudflare/Cloudflare WARP/, mtime 1656939383): 11 files, no impossibilities.
+# C:\ProgramData\DockerDesktop\version-bin: could not be stat'd.
+# C:\Users\duong\go\bin (key C:/Users/duong/go/bi 
+n, mtime 1656755015): 5 files, no impossibilities.
+# C:\Program Files\Git\cmd (key C:/Program Files/Git/cmd, mtime 1656732493): 8 files, no impossibilities.
+# C:\WINDOWS\system32 (key C:/WINDOWS/system32, mtime 1656936704): 2849 files, no impossibilities.
+# C:\MinGW\bin (key C:/MinGW/bin, mtime 1656749964): 144 files, no impossibilities.
+# C:\Program Files (x86)\GnuWin32\bin (key C:/Program Files (x86)/GnuWin32/bin, mtime 1656747547): 5 files, no impossibilities.
+
+# 3476 files, no impossibilities in 22 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+postgres:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 2):
+	docker run --name postgres12 -p 5433:5432 -e POSTGRES_USER=root -e POSTGRES_PASSWORD=secret -d postgres:12-alpine
+	
+
+# Not a target:
+all:
+#  Command-line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+.PHONY: postgres12 createdb dropdb migrateup migratedown sqlc test
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+sqlc:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 12):
+	docker run --rm -v ${pwd}:/src -w /src kjconroy/sqlc generate
+	
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+test:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 14):
+	go test -v -cover ./...
+	
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-02 20:58:37
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+createdb:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 4):
+	docker exec -it postgres12 createdb --username=root --owner=root simple_bank
+	
+
+postgres12:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+dropdb:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 6):
+	docker exec -it postgres12 dropdb  simple_bank
+	
+
+migrateup:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 8):
+	migrate -path db/migration -database "postgresql://root:secret@localhost:5433/simple_bank?sslmode=disable" -verbose up
+	
+
+migratedown:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 10):
+	migrate -path db/migration -database "postgresql://root:secret@localhost:5433/simple_bank?sslmode=disable" -verbose down
+	
+
+# files hash-table stats:
+# Load=13/1024=1%, Rehash=0, Collisions=0/31=0%
+# VPATH Search Paths
+
+# No `vpath' search paths.
+
+# No general (`VPATH' variable) search path.
+
+# # of strings in strcache: 1
+# # of strcache buffers: 1
+# strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
+# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
+
+# Finished Make data base on Mon Jul 04 20:07:37 2022
+
+ 
+make.exe: *** No rule to make target `all'.  Stop.
+
