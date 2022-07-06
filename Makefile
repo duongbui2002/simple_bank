@@ -12,4 +12,6 @@ sqlc:
 	docker run --rm -v ${pwd}:/src -w /src kjconroy/sqlc generate
 test:
 	go test -v -cover ./...
-.PHONY: postgres12 createdb dropdb migrateup migratedown sqlc test
+server:
+	go run main.go
+.PHONY: postgres12 createdb dropdb migrateup migratedown sqlc test server

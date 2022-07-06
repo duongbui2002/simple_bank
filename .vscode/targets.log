@@ -8,7 +8,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # This program built for i386-pc-mingw32
  
 
-# Make data base, printed on Tue Jul 05 20:35:46 2022
+# Make data base, printed on Tue Jul 05 22:35:49 2022
 
 # Variables
 
@@ -35,8 +35,7 @@ CURDIR := c:/Users/duong/GolandProjects/simpleBank
 # default
 SHELL := sh.exe
 # environment
-WINDIR = 
- C:\WINDOWS
+WINDIR = C:\WINDOWS
 # environment
 VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
 # environment
@@ -58,14 +57,13 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-4b2cb9ca-ff69-4962-9e07-14e6e467c7b3-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-8349d524-6fab-4a1f-b72a-cf9053dfc8df-sock
 # environment
 VSCODE_CWD = C:\Users\duong\AppData\Local\Programs\Microsoft VS Code
 # environment
 GOPROXY = https://proxy.golang.org,direct
 # environment
-PATH = C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Go\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\duong\scoop\shims;C:\Users\duong\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\GoLand 2022.1.3\bin;C:\Users\duong\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\DataGrip 2022.1. 
-5\bin;C:\Users\duong\go\bin;C:\Users\duong\AppData\Roaming\npm;C:\MinGW\bin;C:\Program Files (x86)\GnuWin32\bin;
+PATH = C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Go\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\duong\scoop\shims;C:\Users\duong\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\GoLand 2022.1.3\bin;C:\Users\duong\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\DataGrip 2022.1.5\bin;C:\Users\duong\go\bin;C:\Users\duong\AppData\Roaming\npm;C:\MinGW\bin;C:\Program Files (x86)\GnuWin32\bin;
 # environment
 COMMONPROGRAMW6432 = C:\Program Files\Common Files
 # environment
@@ -89,7 +87,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_3232_KCSULGJBKEAOFWFI
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_11520_MCSYSVGCWFKEQBVC
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -102,8 +100,7 @@ GOLAND = C:\Program Files\JetBrains\GoLand 2022.1.3\bin;
 DRIVERDATA = C:\Windows\System32\Drivers\DriverData
 # environment
 ORIGINAL_XDG_CURRENT_DESKTOP = undefined
-# e 
-nvironment
+# environment
 USERNAME = duong
 # environment
 PUBLIC = C:\Users\Public
@@ -140,8 +137,7 @@ PROGRAMFILES(X86) = C:\Program Files (x86)
 # environment
 LOCALAPPDATA = C:\Users\duong\AppData\Local
 # environment
-PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPow 
-erShell\v1.0\Modules
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
 # default
 MAKE_COMMAND := make.exe
 # environment
@@ -162,8 +158,7 @@ HOMEPATH = \Users\duong
 COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
 # environment
 PROMPT = $P$G
-# e 
-nvironment
+# environment
 MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
@@ -188,8 +183,7 @@ LC_ALL = C
 # environment
 DATAGRIP = C:\Program Files\JetBrains\DataGrip 2022.1.5\bin;
 # automatic
-^F 
- = $(notdir $^)
+^F = $(notdir $^)
 # default
 SUFFIXES := 
 # environment
@@ -207,7 +201,7 @@ PROCESSOR_LEVEL = 6
 # environment
 FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
-VSCODE_PID = 3232
+VSCODE_PID = 11520
 # environment
 USERDOMAIN_ROAMINGPROFILE = DUONG
 # variable set hash-table stats:
@@ -215,8 +209,7 @@ USERDOMAIN_ROAMINGPROFILE = DUONG
 
 # Pattern-specific Variable Values
 
-# No pattern-s 
-pecific variable values.
+# No pattern-specific variable values.
 
 # Directories
 
@@ -225,29 +218,25 @@ pecific variable values.
 # C:\Program Files\JetBrains\DataGrip 2022.1.5\bin (key C:/Program Files/JetBrains/DataGrip 2022.1.5/bin, mtime 1656469770): 28 files, no impossibilities.
 # C:\WINDOWS\System32\WindowsPowerShell\v1.0\ (key C:/WINDOWS/System32/WindowsPowerShell/v1.0/, mtime 1622903042): 30 files, no impossibilities.
 # C:\WINDOWS\System32\Wbem (key C:/WINDOWS/System32/Wbem, mtime 1656519656): 170 files, no impossibilities.
-# . (key c:/Users/duong/GolandProjects/simpleBank, mtime 1657028107): 13 files, no impossibilities.
+# . (key c:/Users/duong/GolandProjects/simpleBank, mtime 1657028196): 12 files, no impossibilities.
 # C:\Users\duong\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/duong/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1656469396): 4 files, no impossibilities.
-# C:\Program Files\nodejs\ (key C:/Program Files 
-/nodejs/, mtime 1656744832): 13 files, no impossibilities.
+# C:\Program Files\nodejs\ (key C:/Program Files/nodejs/, mtime 1656744832): 13 files, no impossibilities.
 # C:\Users\duong\AppData\Roaming\npm (key C:/Users/duong/AppData/Roaming/npm, mtime 1656744829): 2 files, no impossibilities.
 # C:\Program Files\MySQL\MySQL Shell 8.0\bin\ (key C:/Program Files/MySQL/MySQL Shell 8.0/bin/, mtime 1656842733): 9 files, no impossibilities.
 # C:\Program Files\JetBrains\GoLand 2022.1.3\bin (key C:/Program Files/JetBrains/GoLand 2022.1.3/bin, mtime 1656472376): 28 files, no impossibilities.
-# C:\WINDOWS\System32\OpenSSH\:  
-could not be stat'd.
+# C:\WINDOWS\System32\OpenSSH\: could not be stat'd.
 # C:\WINDOWS (key C:/WINDOWS, mtime 1656469818): 110 files, no impossibilities.
 # C:\Users\duong\scoop\shims (key C:/Users/duong/scoop/shims, mtime 1656744967): 7 files, no impossibilities.
 # C:\Users\duong\AppData\Local\Microsoft\WindowsApps (key C:/Users/duong/AppData/Local/Microsoft/WindowsApps, mtime 1656982591): 26 files, no impossibilities.
-# C:\Program Files\Cloudflare\Cloudflare WARP\ (key C:/Program Files/Cloudflare/Cloudflare WARP/, mtime 1656939383): 11 files, no impossibilit 
-ies.
+# C:\Program Files\Cloudflare\Cloudflare WARP\ (key C:/Program Files/Cloudflare/Cloudflare WARP/, mtime 1656939383): 11 files, no impossibilities.
 # C:\ProgramData\DockerDesktop\version-bin: could not be stat'd.
 # C:\Users\duong\go\bin (key C:/Users/duong/go/bin, mtime 1656755015): 5 files, no impossibilities.
 # C:\Program Files\Git\cmd (key C:/Program Files/Git/cmd, mtime 1656732493): 8 files, no impossibilities.
-# C:\WINDOWS\system32 (key C:/WINDOWS/system32, mtime 1657023116): 2849 files, no impossibilities.
+# C:\WINDOWS\system32 (key C:/WINDOWS/system32, mtime 1657030362): 2849 files, no impossibilities.
 # C:\MinGW\bin (key C:/MinGW/bin, mtime 1656749964): 144 files, no impossibilities.
-# C:\Program Files (x86)\GnuWin32\bin (key C:/Program 
- Files (x86)/GnuWin32/bin, mtime 1656747547): 5 files, no impossibilities.
+# C:\Program Files (x86)\GnuWin32\bin (key C:/Program Files (x86)/GnuWin32/bin, mtime 1656747547): 5 files, no impossibilities.
 
-# 3479 files, no impossibilities in 22 directories.
+# 3478 files, no impossibilities in 22 directories.
 
 # Implicit Rules
 
@@ -266,8 +255,7 @@ postgres:
 # Not a target:
 all:
 #  Command-line target.
-#  
- Implicit rule search has been done.
+#  Implicit rule search has been done.
 #  File does not exist.
 #  File has not been updated.
 # variable set hash-table stats:
@@ -322,8 +310,7 @@ createdb:
 
 postgres12:
 #  Phony target (prerequisite of .PHONY).
-#   
-Implicit rule search has not been done.
+#  Implicit rule search has not been done.
 #  File does not exist.
 #  File has not been updated.
 
@@ -357,10 +344,7 @@ migratedown:
 #  File does not exist.
 #  File has not been updated.
 #  commands to execute (from `makefile', line 10):
-	migrate -path db/ 
-make.exe: *** No rule to make target `all'.  Stop.
-
-migration -database "postgresql://root:secret@localhost:5433/simple_bank?sslmode=disable" -verbose down
+	migrate -path db/migration -database "postgresql://root:secret@localhost:5433/simple_bank?sslmode=disable" -verbose down
 	
 
 # files hash-table stats:
@@ -376,6 +360,8 @@ migration -database "postgresql://root:secret@localhost:5433/simple_bank?sslmode
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Tue Jul 05 20:35:46 2022
+# Finished Make data base on Tue Jul 05 22:35:49 2022
 
  
+make.exe: *** No rule to make target `all'.  Stop.
+
